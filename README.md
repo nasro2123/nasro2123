@@ -62,4 +62,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Developers-Life&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
 </p>-->
 
-<p align='center'><img src="resources/svg/footer.svg?v=3"></p>
+<p align='center'><img src="resources/svg/footer2.svg" width="100%"></p>
