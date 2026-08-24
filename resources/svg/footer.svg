@@ -1,25 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854px" height="120px" viewBox="0 0 854 120" transform="rotate(0) scale(1, 1)">
     <style>path { transform: rotate(180deg); transform-origin: 50% 50% 0px; }</style>
-    <!-- تعريف فلتر التوهج -->
-    <defs>
-        <filter id="red-glow" x="-20%" y="-20%" width="140%" height="140%">
-            <feGaussianBlur stdDeviation="6" result="blur" />
-            <feMerge>
-                <feMergeNode in="blur" />
-                <feMergeNode in="blur" />
-                <feMergeNode in="SourceGraphic" />
-            </feMerge>
-        </filter>
-    </defs>
 
     <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
-      <!-- الموجة الأولى باللون الأحمر الفاتح مع الفلتر -->
-      <path d="" fill="#ff4d4d" opacity="0.6" filter="url(#red-glow)">
+      <!-- الموجة الأولى أحمر فاتح - شفافية حقيقية -->
+      <path d="" fill="#ff4d4d" opacity="0.4">
         <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z">
         </animate>
       </path>
-      <!-- الموجة الثانية باللون الأحمر الصارخ مع الفلتر -->
-      <path d="" fill="#ff0000" opacity="0.7" filter="url(#red-glow)">
+      <!-- الموجة الثانية أحمر صارخ - شفافية حقيقية -->
+      <path d="" fill="#ff0000" opacity="0.4">
         <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z">
         </animate>
       </path>
