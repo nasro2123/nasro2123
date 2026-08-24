@@ -1,4 +1,4 @@
-<p align='center'><img src="resources/svg/header.svg"></p>
+<p align='center'><img src="resources/svg/header.svg?v=2"></p>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="hello" /></p>
 
@@ -62,4 +62,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Developers-Life&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
 </p>-->
 
-<p align='center'><img src="resources/svg/footer.svg"></p>
+<p align='center'><img src="resources/svg/footer.svg?v=2"></p>
