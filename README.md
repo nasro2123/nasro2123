@@ -3,11 +3,11 @@
 <p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;I'm+Ghost+X+Cheat" alt="hello" /></p>
 
 <p align='center'>
-<a href="https://discordapp.com/users/798503509522645012/"><img src="resources/svg/discord.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://stackoverflow.com/users/26622521/bytecorum"><img src="resources/svg/stackoverflow.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://www.reddit.com/user/ByteCorum/"><img src="resources/svg/reddit.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://x.com/ByteCorum"><img src="resources/svg/twitter.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://ko-fi.com/bytecorum"><img src="resources/svg/donate.svg" width="30" height="30" fill="#4A5897"></a>
+<a href="https://discordapp.com/users/798503509522645012/"><img src="resources/svg/discord2.svg" width="30" height="30" fill="#4A5897"></a>
+<a href="https://stackoverflow.com/users/26622521/bytecorum"><img src="resources/svg/stackoverflow2.svg" width="30" height="30" fill="#4A5897"></a>
+<a href="https://www.reddit.com/user/ByteCorum/"><img src="resources/svg/reddit2.svg" width="30" height="30" fill="#4A5897"></a>
+<a href="https://x.com/ByteCorum"><img src="resources/svg/twitter2.svg" width="30" height="30" fill="#4A5897"></a>
+<a href="https://ko-fi.com/bytecorum"><img src="resources/svg/donate2.svg" width="30" height="30" fill="#4A5897"></a>
 </a>
 </p>
 
