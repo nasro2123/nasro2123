@@ -1,6 +1,6 @@
 <p align='center'><img src="resources/svg/header.svg?v=2"></p>
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="hello" /></p>
+<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=100&color=FF0000&width=435&lines=Welcome+to+my+profile;I'm+Ghost+X+Cheat" alt="hello" /></p>
 
 <p align='center'>
 <a href="https://discordapp.com/users/798503509522645012/"><img src="resources/svg/discord.svg" width="30" height="30" fill="#4A5897"></a>
