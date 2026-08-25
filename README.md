@@ -28,7 +28,7 @@
 <p align='center'>
 <img src="resources/svg/c.svg" width="40" height="40"></a>
 <img src="resources/svg/cpp.svg" width="40" height="40"></a>
-<img src="resources/svg/csharp.svg" width="40" height="40"></a>
+<img src="resources/svg/csharp2.svg" width="40" height="40"></a>
 <img src="resources/svg/python.svg" width="40" height="40"></a>
 <img src="resources/svg/javascript.svg" width="40" height="40"></a>
 <img src="resources/svg/html.svg" width="40" height="40"></a>
