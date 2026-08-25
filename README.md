@@ -11,7 +11,7 @@
 </a>
 </p>
 
-<p align='center'><img src="resources/svg/line.svg" width="750" ></p>
+<p align='center'><img src="resources/svg/line2.svg" width="750" ></p>
 
 <!--<p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=bytecorum&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
@@ -20,7 +20,7 @@
 <!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="stats" /></p>-->
 <p align='center'><img src="resources/img/ghost-logo.png" width="700"></p>
 
-<p align='center'><img src="resources/svg/line.svg" width="750" ></p>
+<p align='center'><img src="resources/svg/line2.svg" width="750" ></p>
 
 <!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="skills" /></p>-->
 <h3 align="center">My Tech Stack</h3>
