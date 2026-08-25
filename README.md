@@ -18,18 +18,7 @@
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>-->
 
 <!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="stats" /></p>-->
-<h3 align="center">Github Statistic</h3>
-
-<p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
-</p>
-<p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
-</p>
+<p align='center'><img src="resources/svg/name-banner.svg" width="800"></p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
 
