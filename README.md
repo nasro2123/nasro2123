@@ -21,9 +21,14 @@
 <h3 align="center">Github Statistic</h3>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&ring_color=608DD9&card_width=340" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecorum&hide_progress=false&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&card_width=280" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+</p>
+<p align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
 </p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
@@ -51,15 +56,9 @@
 </p>
 
 <!--<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=DragonBurn&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=BIOS&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Py-Shield&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Developers-Life&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
 </p>-->
 
 <p align='center'><img src="resources/svg/footer2.svg" width="100%"></p>
