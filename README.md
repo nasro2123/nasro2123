@@ -4,10 +4,8 @@
 
 <p align='center'>
 <a href="https://discord.com/users/304304388514512896/"><img src="resources/svg/discord2.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://stackoverflow.com/users/26622521/bytecorum"><img src="resources/svg/stackoverflow2.svg" width="30" height="30" fill="#4A5897"></a>
 <a href="https://www.reddit.com/user/Fit_Rice7625/"><img src="resources/svg/reddit2.svg" width="30" height="30" fill="#4A5897"></a>
 <a href="https://x.com/NasDeep78056"><img src="resources/svg/twitter2.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://ko-fi.com/bytecorum"><img src="resources/svg/donate2.svg" width="30" height="30" fill="#4A5897"></a>
 </a>
 </p>
 
