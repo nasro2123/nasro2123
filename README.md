@@ -21,14 +21,14 @@
 <h3 align="center">Github Statistic</h3>
 
 <p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
 </p>
 <p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasro2123&theme=github_dark" height="220" style="display:inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasro2123&theme=github_dark" height="150" style="display:inline-block;">
 </p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
